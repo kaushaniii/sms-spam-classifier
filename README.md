@@ -34,5 +34,5 @@ An end-to-end Machine Learning web application built using Streamlit that classi
 ├── model.pkl              # Trained ML model (e.g., Naive Bayes / Random Forest)
 ├── vectorizer.pkl         # Trained TF-IDF / Bag of Words vectorizer
 ├── requirements.txt       # Python dependencies
-├── SMS_Spam_Classifier.ipynb # Notebook containing EDA, preprocessing & model training
+├── SMS_Spam_Classifier.ipynb    # Notebook containing EDA, preprocessing & model training
 └── README.md              # Project documentation
